@@ -18,7 +18,7 @@
 
 
 - Adoro a cultura asiática e jogos no geral
-- Meus Filmes favoritos são "Scarface" e "Click"
+- Meus Filmes favoritos são "Scarface" e "Akira"
 - Adoro Livros. Meus favoritos são:
   - <a href='https://www.amazon.com.br/Maus-Edi%C3%A7%C3%A3o-especial-Art-Spiegelman/dp/6559212831/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr='>Maus - Art Spiegelman </a>
   -  <a href='https:https://www.amazon.com.br/Homem-sem-Talento-Yoshiharu-Tsuge/dp/8595710597'>O Homem sem Talento - Yoshiharu Tsuge</a>
