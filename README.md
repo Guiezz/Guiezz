@@ -23,15 +23,4 @@
   - <a href='https://www.amazon.com.br/Maus-Edi%C3%A7%C3%A3o-especial-Art-Spiegelman/dp/6559212831/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr='>Maus - Art Spiegelman </a>
   -  <a href='https:https://www.amazon.com.br/Homem-sem-Talento-Yoshiharu-Tsuge/dp/8595710597'>O Homem sem Talento - Yoshiharu Tsuge</a>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://i.imgflip.com/65qngn.gif" height="250px">
-      </td>
-      <td>
-          <img src="https://huddle.eurostarsoftwaretesting.com/wp-content/uploads/2014/07/code-minions.gif" height="250px">
-      </td>
-    </tr>
-  </table>
-</div>
+
