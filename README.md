@@ -21,6 +21,11 @@
   <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind logo"  />
+  
 </div>
 
 ###
